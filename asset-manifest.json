@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tenzies-Game/static/css/main.e297fcb0.css",
+    "main.js": "/Tenzies-Game/static/js/main.245655a3.js",
+    "index.html": "/Tenzies-Game/index.html",
+    "main.e297fcb0.css.map": "/Tenzies-Game/static/css/main.e297fcb0.css.map",
+    "main.245655a3.js.map": "/Tenzies-Game/static/js/main.245655a3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e297fcb0.css",
+    "static/js/main.245655a3.js"
+  ]
+}
